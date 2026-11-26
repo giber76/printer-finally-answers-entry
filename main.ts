@@ -17,6 +17,12 @@
 //   - It is fresh: not the recycled "paper jam" groan, but a jam with a
 //     motive — the printer as the only worker in the building with a valid
 //     excuse.
+//   - Second pass, kept over the alternatives: the shorter "I jammed on
+//     purpose. It was the only meeting I could skip." drops the direct
+//     answer to the jam, and the sheet-counting variant ("after 41,209
+//     pages, I finally read one...") reads weary but its laugh arrives
+//     late; opening on "Paper jam? No" answers the exact complaint in
+//     front of the machine and lets the payoff land on the last word.
 // Run outside the grader, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
